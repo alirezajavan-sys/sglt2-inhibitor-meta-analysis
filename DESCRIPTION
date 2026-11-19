@@ -1,0 +1,13 @@
+Package: sglt2meta
+Title: Meta-Analysis of SGLT2 Inhibitor Outcome Trials
+Version: 1.0.0
+Authors@R: person("Alireza", "Javan", role = c("aut", "cre"))
+Description: Reproducible analysis (not an installable package). This file
+    declares the R dependencies for remotes::install_deps() and r-lib/actions.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    metafor,
+    knitr
+Suggests:
+    testthat

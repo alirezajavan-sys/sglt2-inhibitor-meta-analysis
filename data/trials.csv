@@ -1,0 +1,14 @@
+trial,drug,year,population,n_randomized,outcome_definition,strict_definition,hr,ci_lower,ci_upper,ci_level,pmid,doi,source_note
+EMPA-REG OUTCOME,empagliflozin,2015,Type 2 diabetes (CV outcome trials),7020,First CV death or HHF,TRUE,0.66,0.55,0.79,0.95,26378978,10.1056/NEJMoa1504720,Fitchett et al. Eur Heart J 2016 (PMC4872285); n = patients treated
+CANVAS Program,canagliflozin,2017,Type 2 diabetes (CV outcome trials),10142,First CV death or HHF,TRUE,0.78,0.67,0.91,0.95,28605608,10.1056/NEJMoa1611925,Radholm et al. Circulation 2018 (doi:10.1161/CIRCULATIONAHA.118.034222)
+DECLARE-TIMI 58,dapagliflozin,2019,Type 2 diabetes (CV outcome trials),17160,First CV death or HHF (co-primary),TRUE,0.83,0.73,0.95,0.95,30415602,10.1056/NEJMoa1812389,Abstract
+VERTIS CV,ertugliflozin,2020,Type 2 diabetes (CV outcome trials),8246,First CV death or HHF (key secondary),TRUE,0.88,0.75,1.03,0.958,32966714,10.1056/NEJMoa2004967,Abstract; 95.8% CI
+CREDENCE,canagliflozin,2019,Chronic kidney disease,4401,First CV death or HHF (secondary),TRUE,0.69,0.57,0.83,0.95,30990260,10.1056/NEJMoa1811744,Main paper Table 2
+DAPA-CKD,dapagliflozin,2020,Chronic kidney disease,4304,First CV death or HHF (secondary),TRUE,0.71,0.55,0.92,0.95,32970396,10.1056/NEJMoa2024816,Abstract
+SCORED,sotagliflozin,2021,Chronic kidney disease,10584,First CV death or HHF (original co-primary),TRUE,0.77,0.66,0.91,0.95,33200891,10.1056/NEJMoa2030186,Abstract; dual SGLT1/2 inhibitor
+EMPA-KIDNEY,empagliflozin,2023,Chronic kidney disease,6609,First CV death or HHF (key secondary),TRUE,0.84,0.67,1.07,0.95,36331190,10.1056/NEJMoa2204233,PMC full text (PMC7614055)
+DAPA-HF,dapagliflozin,2019,Heart failure,4744,First worsening HF event (HHF or urgent visit) or CV death (primary),FALSE,0.74,0.65,0.85,0.95,31535829,10.1056/NEJMoa1911303,Abstract; includes urgent HF visits
+EMPEROR-Reduced,empagliflozin,2020,Heart failure,3730,First CV death or HHF (primary),TRUE,0.75,0.65,0.86,0.95,32865377,10.1056/NEJMoa2022190,Abstract
+SOLOIST-WHF,sotagliflozin,2021,Heart failure,1222,Total CV deaths + HHF + urgent HF visits (primary),FALSE,0.67,0.52,0.85,0.95,33200892,10.1056/NEJMoa2030183,Abstract; total (recurrent) events; dual SGLT1/2 inhibitor
+EMPEROR-Preserved,empagliflozin,2021,Heart failure,5988,First CV death or HHF (primary),TRUE,0.79,0.69,0.90,0.95,34449189,10.1056/NEJMoa2107038,Abstract
+DELIVER,dapagliflozin,2022,Heart failure,6263,First worsening HF event (HHF or urgent visit) or CV death (primary),FALSE,0.82,0.73,0.92,0.95,36027570,10.1056/NEJMoa2206286,Abstract; includes urgent HF visits

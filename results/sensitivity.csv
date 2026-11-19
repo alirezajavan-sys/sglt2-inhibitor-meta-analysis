@@ -1,0 +1,6 @@
+"Analysis","Trials","Pooled HR (95% CI)"
+"Primary: random effects (REML), all trials",13,"0.78 (0.74–0.81)"
+"Fixed effect (inverse variance)",13,"0.78 (0.74–0.81)"
+"Random effects with Hartung-Knapp-Sidik-Jonkman CI",13,"0.78 (0.74–0.81)"
+"Strict definition only (first CV death or HHF)",10,"0.78 (0.74–0.82)"
+"Excluding sotagliflozin (dual SGLT1/2 inhibitor)",11,"0.78 (0.74–0.82)"
